@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="counter">empty</string>
+    <string name="button">Кликай</string>
+    <string name="but_name">Замена</string>
+    <string name="text_name">Привет, Anonimous!</string>
+    <string name="name">Name</string>
+
+</resources>
